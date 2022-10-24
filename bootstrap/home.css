@@ -1,0 +1,103 @@
+.main{
+	background-color:#21315C;
+}
+.logo{
+	background-color:#4436B9;
+	height:50px;
+	color:#FFFFFF;
+	align:left;
+	float:center;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color:#D8F028;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color:#000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+.backtohome a.hover{
+  color:yellowgreen;
+}
+.div2 {
+	    height:600px;
+	 }
+.div21{
+	background-color:blue;
+    float:left;
+    width:70%;
+	height:100%;
+				}
+.div22{
+	background-color:maroon;
+	float:left;
+	width:30%;
+	height:100%;
+	}
+.div3{
+	background-color:darkblue;
+	height:90px;
+	}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 10px;
+  text-align: center;
+  text-decoration: none;
+	height:0.5px;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram{
+  background:#EB8BD5;
+  color: white;
+}
+
+/* Twitter */
+.fa-snapchat {
+  background: yellow;
+  color: white;
+}

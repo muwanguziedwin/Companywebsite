@@ -1,0 +1,40 @@
+/*---------------------------------------
+     INQUIRY              
+  -----------------------------------------*/
+  .inquiry{
+    background: cadetblue;
+  }
+    #inquiry-form .col-md-12,
+    #inquiry-form .col-md-4 {
+      padding-left: 0;
+      
+    }
+  
+    #inquiry-form .form-control {
+      background: transparent;
+      border: 0;
+      border-bottom: 3px solid #f0f0f0;
+      border-radius: 0;
+      box-shadow: none;
+      margin: 10px 0;
+    }
+  
+    #inquiry-form .form-control:focus {
+      border-bottom-color: #202020;
+    }
+  
+    #inquiry-form input {
+      height: 50px;
+    }
+  
+    #inquiry-form input[type='submit'] {
+      background: #202020;
+      border-radius: 50px;
+      border: 0;
+      color: #ffffff;
+    }
+  
+    #inquiry-form input[type='submit']:hover {
+      background: #29ca8e;
+      color: #ffffff;
+    }
